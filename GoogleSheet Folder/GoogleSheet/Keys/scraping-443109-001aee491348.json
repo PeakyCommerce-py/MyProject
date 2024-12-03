@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scraping-443109",
+  "private_key_id": "001aee49134837c57f4ad85d33d33d0d4497a5a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCQJs8zIQdzHnCh\nJg/zC3blEk9tinM5DbSvQ3yUM4gvuHYfnstdmlmZNyEmC8QECsskXA6TsrCbYiit\n+ZnYrzcjdTPGqudzdl9kP3wVgvnZ0DmjMywJVymX1YNAjVNZs3sMYIXIkT3tiLEl\nbBaqNW7AMwwEkDkqoLAZ8sRp6g3MyPT0m54q3QiXrKsMVbQZgfNJuNTNOye27nGk\nNA7DBTLvBNfVbgPlzot13KwMYHRWPURNUaR3S5M64H2PUWJBfd0htQaZLfqKFr3m\nbZt4Uhnj55fsvz/BQDMyapzz2MSmlGNvJA46bbVdnkfX6iFMqfJTiH/BDSH6Wktx\nm4TpzhRBAgMBAAECggEAGh++azCwLe+1T68bMtvAB1GjLWHq8csHFMAxQpZ4NtXC\nKobXqjX/yOGR01hMhMMD/6njRmca1H4cizLx67ANWRKzeGyel3E7ZmqO7UMYTp4K\n5AWxFFxEgGzEZZ13HomFYj/X3vpbc8HTAMou7VfTo2dc5TLR+WS3pWw2pk8xgwwe\nmjCO6SnSzhM3NG9hsCCzx/J6T2WUVyJsR/xGiN2zHkFr7z2YPyEbxe8ELEX7ANJN\nbtjvp5L0Md0e0Cs9/IUTFdVxRYS0LHE4VK0uyf9ZPg/SefS4MZeOdjmci/pl6QFc\nVn+a6YLUHnB0wR+NLOUVKIC3AFVGGYVHpgdFYdDe8QKBgQDE5KDoKk6hJtip4niG\nIswsxc4UCeWz7hDsveyUMJq8qj4YfV8QVq2pYxWSwd7oQQPObo3WA4vfdztTr5EZ\nH62lTyH9e9XV0v1Z5Uxgov+9xpMb0poOovf4IXf7Nq3M/zMxCIlZ/kE3ImiNXqp8\nKjPv1JGXo2agBEMeT5r71vtThQKBgQC7bPYCjCA4JyI4DFfzMiBzEJMWE9djFhPp\nw8JDIZ4Kq7U4P8bijwjaKXqZtIGxLpvZpEI2Hf4r49ysOl0yhtvCEtZ6BEb4p7j2\nNY9tPq0OFEwhtVTubDTJoX01hhkO5vV7miRMMKtelXd8fh0APCBlIx/e2LFBAEyQ\nBGNlYLcEjQKBgQCEeAIeUaCXYehx3DIUpULTeL4e003dUfXHIj0SsuTYvH2MwoT8\nHCU5CrYQCCnt/xgNgmohLD+mOLUMp9mqmpqc1vHadr+23f6gxdouRlxkFT8SgA4w\nfMrzAamUtgQXITgS7Fhk2OCNtLO9MYzofwh0eoL+D+zTCisSMKLof4qWdQKBgF9C\n7G8zBZVE3rGaJIGpcrDJNdk80Ha+W/Su2OgCCC/oQj2KvO2eQaOQ/Y1uH5UM2Y3v\nXO/gorVwJVMsfv4VaVDk/joaPnBX3zzU0Ed4WcEUM/XWEor0WIg7GkbAF7BpV1Ax\nck1/VzrFwWt3NgpOhTCif6pmfQFKw59Xe6WlWKBpAoGBALPVSgPHv7BzqA1x9Pl/\nwAD8EaPTGQ3jzQYU31JYjp4ZwvIutBSw35dgnKPs1zyzY28B4Ra5PwRN2FA25wMd\ncSFIuAdgPWm2i8hFR2t+V3E75pHt/yeStd7yt/y3kZvNELW8cH1FcZyCmV244KOR\nZJu8+sY3EiAUnv4trjvTnFcu\n-----END PRIVATE KEY-----\n",
+  "client_email": "nordicdetails@scraping-443109.iam.gserviceaccount.com",
+  "client_id": "115844437986386466569",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nordicdetails%40scraping-443109.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

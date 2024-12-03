@@ -1,0 +1,24 @@
+fetch("https://www.ratsit.se/api/search/combined", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Google Chrome\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
+    "sec-ch-ua-arch": "\"x86\"",
+    "sec-ch-ua-bitness": "\"64\"",
+    "sec-ch-ua-full-version": "\"129.0.6668.70\"",
+    "sec-ch-ua-full-version-list": "\"Google Chrome\";v=\"129.0.6668.70\", \"Not=A?Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"129.0.6668.70\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-model": "\"\"",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-ch-ua-platform-version": "\"10.0.0\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "cookie": ".AspNetCore.Antiforgery.73XflXSd7TU=CfDJ8JyZhnBfggVClOTwXXWQB1mBhLi7WEacvCPCOidwiVelgYVCfuz6nCmgD3TDP9-QE1e2aHRTv2_bIX6yYZFQn2VkDYxI9GbDbubMLfJMJfOc3LAXzfFG89ugum9mQzb6k_Dte1qEvAOAakF_tkoyR74; cmsads=; _return_url=%7B%22Url%22%3A%22%2F%22%2C%22Text%22%3A%22startsidan%22%7D; .AspNetCore.Cookies=CfDJ8JyZhnBfggVClOTwXXWQB1nXqf8Zps_D5vfENBKGSVGdQQHMHl3Cgon7pSH0wlbjWQbt3BzFTVxEd6yxd0KvxeowBAkQVpRdSFkL14m02_A7Oi43OH74L7hVw4hTuUZQAlI8Ib3togYkICZukf7fWxizRdTqjF2mESDAYOX04CCkY9z5wC-T7MsDsjUUbYM0iq8Mc8QBDtzT-V_zOdh009a-qmqn09p2UhGU0hzZDlhCSDBQbfQ_4j8wIGPPesb_LOWBtZEuJp4B0ecG9LQJLg0E-6titbqEdMEcE5tkHigceDZKBWYbO3KDFjW8hhFd6YD6d_fkUrihvvvGUvZY0IpnEW2qjqALLRkWX-Mz2Drpl-6VkMoPdcekZESdl8Ahegj4rXM8hDpZsh63h0zIGe2a0ZZbNcQ-JPKseXgg2r632J9ZO0i5NPqYuWRBcQPKjxl1jF4ym_1xFhl3anljaRVkLoXdh--pt3xluCfRBqm_zXAa7RJz5Qjy-GGMmlroOQYnXRU8htcHsK4rDsjlIxK4eGbo09qhVMksIFMo3hJCx95bdgEOlakxi1v2PGEP8T8fFj-rwuYtI5DJqYd5dBbKIFJ7g3kbEvZWsHDKMN6ZuXqCBeEermaZ0d2C-s_29qJNEBS5Cl_WrTzOu1Rc6KOvZpU1PN16-q8r1xYwZSYKQn_vlLIUfKnYxAhFBzc18S5zD49qR6R-zmB6J8VnaXzbpjchOYBMjrbgxocpE_a38iBJeqaO_OG_ejY5oqO44hSyTt7mGWeTbNpsE73t-JxQBAjom6C5DAxFDe0l6A9JIeqcSkQTN6k_ba7SXNVARNbbyLSp46opIcKrC1v0q7sbCEm18cCz8wfw-OQ4Br5qaYykwkWJJ-GYKIH_rxQfIYQM3Z3LCsk38sZsg7jz6ykiOZKgdSRjnLWTYfCRXVX8syzI3yL5pnbQORZApRei-naYJtfJmthhID7vZvzlNcByebMQvGgDMDWn_NJJlGlAoQ2Q3Qq9hkT8Ok-XK-gs4WskqssV3ROk5PzAav7M20cHyT9s0_wkQTmTGQZuF1OU"
+  },
+  "referrerPolicy": "no-referrer",
+  "body": "{\"who\":\"Trollhättan\",\"age\":[\"16\",\"120\"],\"phoneticSearch\":true,\"companyName\":\"\",\"orgNr\":\"\",\"firstName\":\"\",\"lastName\":\"\",\"personNumber\":\"\",\"phone\":\"\",\"address\":\"\",\"postnr\":\"\",\"postort\":\"\",\"kommun\":\"\",\"page\":1,\"url\":\"/sok/person?vem=Trollh%C3%A4ttan&m=0&k=0&r=0&er=0&b=0&eb=0&amin=16&amax=120&fon=1&page=1\"}",
+  "method": "POST"
+});
